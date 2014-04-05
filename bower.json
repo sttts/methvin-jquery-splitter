@@ -1,6 +1,7 @@
 {
     "name": "methvin-jquery-splitter",
     "version": "1.5.1",
+    "homepage": "http://methvin.com/splitter/index.html",
     "main": "splitter.js",
     "ignore": [
         "bower.json",
