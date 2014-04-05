@@ -1,0 +1,14 @@
+{
+    "name": "methvin-jquery-splitter",
+    "version": "1.5.1",
+    "main": "splitter.js",
+    "ignore": [
+        "bower.json",
+        "README.md"
+    ],
+    "dependencies": {
+        "jquery": "~1.9.0"
+    },
+    "devDependencies": {
+    }
+}
